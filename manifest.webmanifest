@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "My Game Year — Gaming Journal",
+  "short_name": "My Game Year",
+  "description": "Track every game you play, your progress, hours, ratings, and yearly gaming stats.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#11101b",
+  "theme_color": "#171526",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
